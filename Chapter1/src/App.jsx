@@ -1,9 +1,11 @@
 import React from 'react';
 function App() {
  return (
-  <>
-<h1>a</h1><p>B</p>
-</>
+ <div>
+ <h1>
+ Learn React Fast
+ </h1>
+ </div>
  );
 }
 
